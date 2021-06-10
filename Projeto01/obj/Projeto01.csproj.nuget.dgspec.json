@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Documents\\github\\PSI_2021\\Projeto01\\Projeto01.csproj": {}
+    "C:\\Users\\Gabriel F\\Documents\\IFRN\\PSI\\PSI_2021\\Projeto01\\Projeto01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Documents\\github\\PSI_2021\\Projeto01\\Projeto01.csproj": {
+    "C:\\Users\\Gabriel F\\Documents\\IFRN\\PSI\\PSI_2021\\Projeto01\\Projeto01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Documents\\github\\PSI_2021\\Projeto01\\Projeto01.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel F\\Documents\\IFRN\\PSI\\PSI_2021\\Projeto01\\Projeto01.csproj",
         "projectName": "Projeto01",
-        "projectPath": "C:\\Users\\gabri\\Documents\\github\\PSI_2021\\Projeto01\\Projeto01.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Documents\\github\\PSI_2021\\Projeto01\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel F\\Documents\\IFRN\\PSI\\PSI_2021\\Projeto01\\Projeto01.csproj",
+        "packagesPath": "C:\\Users\\Gabriel F\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel F\\Documents\\IFRN\\PSI\\PSI_2021\\Projeto01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Gabriel F\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -35,3 +35,39 @@ C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.cs
 C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.csproj.AssemblyReference.cache
 C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\Categoria\Index.cshtml.g.cs
 C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\Categoria\Edit.cshtml.g.cs
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\appsettings.json
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\Projeto01.exe
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\Projeto01.deps.json
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\Projeto01.runtimeconfig.json
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\Projeto01.runtimeconfig.dev.json
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\Projeto01.dll
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\ref\Projeto01.dll
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\Projeto01.pdb
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\Projeto01.Views.dll
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\Projeto01.Views.pdb
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.csproj.AssemblyReference.cache
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.AssemblyInfoInputs.cache
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.AssemblyInfo.cs
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.RazorAssemblyInfo.cache
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.RazorAssemblyInfo.cs
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\staticwebassets\Projeto01.StaticWebAssets.Manifest.cache
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\staticwebassets\Projeto01.StaticWebAssets.xml
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\scopedcss\bundle\Projeto01.styles.css
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.TagHelpers.input.cache
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.TagHelpers.output.cache
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.RazorCoreGenerate.cache
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\Categoria\Index.cshtml.g.cs
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.RazorTargetAssemblyInfo.cs
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.Views.pdb
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.dll
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\ref\Projeto01.dll
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.pdb
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.genruntimeconfig.cache
+C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.csproj.CopyComplete
