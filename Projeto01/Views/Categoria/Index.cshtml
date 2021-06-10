@@ -8,9 +8,20 @@
 </head>
 <body>
     <div>
-        @foreach (var item in Model) {
-            
-        }
+        <table>
+            @foreach (var item in Model) {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Editar", "Edit", new { id=item.CategoriaId }) |
+                        @Html.ActionLink("Detalhes", "Details", new { id=item.CategoriaId }) |
+                        @Html.ActionLink("Excluir", "Delete", new { id=item.CategoriaId })
+                    </td>
+                </tr>
+            }
+        </table>
     </div>
 </body>
 </html>
