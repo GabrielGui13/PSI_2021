@@ -19,12 +19,19 @@ namespace Projeto01.Controllers
             new Categoria() { CategoriaId = 5, Nome = "Desktops"}
         };
 
-        public IActionResult Index()
-        {
+        public IActionResult Index() {
             return View(categorias);
         }
         public IActionResult Create() {
             return View();
+        }
+        [HttpPost] //Recebe os valores pelo método POST
+        [ValidateAntiForgeryToken] //ativa a validação @Html.AntiForgeryToken();
+        public ActionResult Create(Categoria categoria) {
+            categorias.Add(categoria); //adiciona nova categoria na "database"
+            categoria.CategoriaId = categorias.Select(m => m.CategoriaId).Max() + 1; 
+            //A sintaxe apresentada consulta o maior código de categoria (CategoriaId) existente na lista
+            return RedirectToAction("Index"); //redireciona para o Index
         }
     }
 }
