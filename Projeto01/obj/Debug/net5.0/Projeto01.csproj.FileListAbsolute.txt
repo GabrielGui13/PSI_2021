@@ -34,7 +34,6 @@ C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.ge
 C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.csproj.CopyComplete
 C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.csproj.AssemblyReference.cache
 C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\Categoria\Index.cshtml.g.cs
-C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\Categoria\Edit.cshtml.g.cs
 C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\appsettings.json
 C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\bin\Debug\net5.0\Projeto01.exe
@@ -71,3 +70,4 @@ C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\ref\Pr
 C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.pdb
 C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.genruntimeconfig.cache
 C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.csproj.CopyComplete
+C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\Categoria\Create.cshtml.g.cs

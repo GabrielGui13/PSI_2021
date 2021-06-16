@@ -23,13 +23,8 @@ namespace Projeto01.Controllers
         {
             return View(categorias);
         }
-        public IActionResult Edit() {
+        public IActionResult Create() {
             return View();
         }
-
-        public string Arael() {
-            return "Oi meu nome eh arael";
-        }
-
     }
 }

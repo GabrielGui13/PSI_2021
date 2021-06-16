@@ -1,0 +1,33 @@
+@model webAplicationIII.Models.Categoria
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Create</title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.unobtrosive.js"></script>
+</head>
+<body>
+    @using (Html.BeginForm()) { //Inicia um formulário
+        @Html.AntiForgeryToken();
+        /* The purpose of using anti-forgery tokens is to prevent cross-site request forgery (CSRF) attacks. 
+        It does this by submitting two different values to the server on any given POST, 
+        both of which must exist in order for the server to allow the request.
+        */
+        <div class="form-horizontal">
+            <h4>Categoria</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.Nome, htmlAttributes: new {@class = "control-label col-md-2"})
+            </div>
+        </div>
+    }       
+</body>
+</html>

@@ -8,11 +8,12 @@
 </head>
 <body>
     <div>
+        @Html.ActionLink("Criar nova categoria", "Create") </br>
         <table>
             @foreach (var item in Model) {
                 <tr>
                     <td>
-                        @Html.DisplayFor(modelItem => item.Nome)
+                        @Html.DisplayFor(modelItem => item.Nome): @Html.DisplayFor(modelItem => item.Nome)
                     </td>
                     <td>
                         @Html.ActionLink("Editar", "Edit", new { id=item.CategoriaId }) |
