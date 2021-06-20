@@ -1,0 +1,35 @@
+@model Projeto01.Models.Categoria
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Delete</title>
+</head>
+<body>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.unobtrosive.js"></script>
+
+    <h3>Confirma a exclusao do item abaixo?</h3>
+    </hr>
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(model => model.CategoriaId)
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Excluir" class="btn btn-default">
+            @Html.ActionLink("Retornar para lista", "Index")
+        </div>
+    }
+</body>
+</html>

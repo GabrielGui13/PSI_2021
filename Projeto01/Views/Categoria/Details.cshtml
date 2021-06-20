@@ -1,0 +1,35 @@
+@model Projeto01.Models.Categoria
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Details</title>
+</head>
+<body>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.unobtrosive.js"></script>
+
+    <div>
+        <h4>Categoria</h4>
+        </hr>
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Nome)
+            </dt>
+            <dt>
+                @Html.DisplayFor(model => model.Nome)
+            </dt>
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Editar", "Edit", new {id = Model.CategoriaId}) <!-- O new eh a passagem de parametros -->
+        @Html.ActionLink("Voltar", "Index")
+    </p>
+</body>
+</html>

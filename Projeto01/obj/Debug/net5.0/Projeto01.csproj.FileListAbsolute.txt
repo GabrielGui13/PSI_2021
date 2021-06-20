@@ -71,3 +71,6 @@ C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projet
 C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.genruntimeconfig.cache
 C:\Users\Gabriel F\Documents\IFRN\PSI\PSI_2021\Projeto01\obj\Debug\net5.0\Projeto01.csproj.CopyComplete
 C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\Categoria\Create.cshtml.g.cs
+C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\Categoria\Edit.cshtml.g.cs
+C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\Categoria\Details.cshtml.g.cs
+C:\Users\gabri\Documents\github\PSI_2021\Projeto01\obj\Debug\net5.0\Razor\Views\Categoria\Delete.cshtml.g.cs

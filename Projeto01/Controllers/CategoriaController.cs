@@ -33,5 +33,28 @@ namespace Projeto01.Controllers
             //A sintaxe apresentada consulta o maior código de categoria (CategoriaId) existente na lista
             return RedirectToAction("Index"); //redireciona para o Index
         }
+        public ActionResult Edit(long id) {
+            return View(categorias.Where(m => m.CategoriaId == id).First()); //Filter em js, retorna o primeiro valor dentro das condicoes
+        }
+        //O método deve remover o elemento original da lista e substituir pelo objeto Categoria editado recebido da visão. Após editar, vai para a visão da lista.
+        [HttpPost] 
+        [ValidateAntiForgeryToken] 
+        public ActionResult Edit(Categoria categoria) {
+            categorias.Remove(categorias.Where(c => c.CategoriaId == categoria.CategoriaId).First());
+            categorias.Add(categoria);
+            return RedirectToAction("Index"); 
+        }
+        public ActionResult Details(long id) {
+            return View(categorias.Where(m => m.CategoriaId == id).First());
+        }
+        public ActionResult Delete(long id) {
+            return View(categorias.Where(m => m.CategoriaId == id).First());
+        }
+        [HttpPost] 
+        [ValidateAntiForgeryToken] 
+        public ActionResult Delete(Categoria categoria) {
+            categorias.Remove(categorias.Where(c => c.CategoriaId == categoria.CategoriaId).First());
+            return RedirectToAction("Index"); 
+        }
     }
 }
