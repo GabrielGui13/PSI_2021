@@ -25,3 +25,7 @@ dotnet tool install -g dotnet-aspnet-codegenerator
 ## To create a view 
 ### using Details template called TesteCategoria2 using model class (-m TesteCategoria2) at the dir(-outDir Views/Movies): 
 dotnet-aspnet-codegenerator view TesteCategoria2 Details -m Categoria -outDir Views/Categoria
+
+
+npm -i -g yo bower grunt-cli gulp generator-aspnet
+yo aspnet
